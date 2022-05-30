@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370602818447",
+    "project_id": "kelvin-uas",
+    "storage_bucket": "kelvin-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370602818447:android:ac90663071a39a5ee9e9fa",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370602818447-bj994a689io0h10rv8bltrhs5amqmu8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-Bd3KWbxpnMTrKEYqz7CjKll40MYfBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370602818447-bj994a689io0h10rv8bltrhs5amqmu8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
